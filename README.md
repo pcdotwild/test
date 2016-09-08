@@ -10,4 +10,5 @@ Posté par Christophe Ducamp le dimanche 15 décembre 2013
 Pour créer un nouveau commit : 
 
 $ git add README.md
-$ git commit
+$ git status	################ optionnel mais conseillé ################
+$ git commit -m "Description simple du Commit"
